@@ -3,5 +3,5 @@
 @section("page-title", "Laravel Model Controller")
 
 @section("main-content")
-    <h1>/movies</h1>
+    <h1 class="text-center">/movies</h1>
 @endsection
