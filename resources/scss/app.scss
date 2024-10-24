@@ -1,2 +1,15 @@
 @use "~bootstrap/scss/bootstrap" as *;
 
+body {
+    background-color: #24283B;
+}
+
+h1 {
+    color: white;
+}
+
+article {
+    padding: 20px;;
+    background-color: rgb(0, 0, 0);
+    border-radius: 10px;
+}
